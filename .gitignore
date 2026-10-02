@@ -1,0 +1,11 @@
+/world
+/world_nether
+/world_the_end
+/logs
+/crash-reports
+paper.jar
+playit
+*.log
+.playit/
+server.properties
+geyser_enabled.txt
